@@ -1,0 +1,35 @@
+.main{
+    width: 100vh;
+}
+.modalMore{
+    display: none;
+    width: 300px;
+    height: auto;
+    padding: 15px;
+    background-color: rgb(132, 129, 129);
+    box-shadow: 10px 5px 5px #414040;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+
+.editModal{
+    display: none;
+    width: 300px;
+    height: auto;
+    padding: 15px;
+    background-color: rgb(132, 129, 129);
+    box-shadow: 10px 5px 5px #414040;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, 50%);
+}
+.elementsBlock{
+    display: flex;
+    max-width: 1200px;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    padding-top: 20px;
+}

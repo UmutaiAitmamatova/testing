@@ -1,0 +1,54 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "ww",
+      "surname": "ee",
+      "Phone": "996 505 171 515",
+      "wKPI": "100",
+      "mKPI": "rr",
+      "avatar": "https://api.ambr.top/assets/UI/UI_AvatarIcon_PlayerBoy.png",
+      "phone": "rr"
+    },
+    {
+      "name": "Umutai",
+      "surname": "Aitmamatova",
+      "phone": "123",
+      "mKPI": "233",
+      "avatar": "34",
+      "id": 2
+    },
+    {
+      "name": "dff",
+      "surname": "kkl",
+      "phone": "bb",
+      "mKPI": "https://api.ambr.top/assets/UI/UI_AvatarIcon_PlayerBoy.png",
+      "avatar": "https://api.ambr.top/assets/UI/UI_AvatarIcon_PlayerBoy.png",
+      "id": 3
+    },
+    {
+      "name": "er",
+      "surname": "rr",
+      "phone": "json-server -w --p 8000 db.json",
+      "mKPI": "s",
+      "avatar": "d",
+      "id": 4
+    },
+    {
+      "name": "sw",
+      "surname": "s",
+      "phone": "json-server -w --p 8000 db.json",
+      "mKPI": "ss",
+      "avatar": "d",
+      "id": 5
+    },
+    {
+      "name": "",
+      "surname": "",
+      "phone": "",
+      "mKPI": "",
+      "avatar": "",
+      "id": 6
+    }
+  ]
+}
